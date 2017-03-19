@@ -7,3 +7,7 @@ You can recreate an environment using environment.yml file (see: https://conda.i
 The code from the repository demonstrates how to build a simple neural network (forward pass, backward pas). Data set of bike sharing is also part of repository so to show a training and perofmance evaluation actions.
 
 Feel free to contact me in case of questions.
+
+References:
+1) http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
+2) http://cs231n.github.io/neural-networks-case-study/#grad
