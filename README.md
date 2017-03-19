@@ -11,3 +11,13 @@ Feel free to contact me in case of questions.
 References:
 1) http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
 2) http://cs231n.github.io/neural-networks-case-study/#grad
+ 
+Please join me if you wnat to learn-while-doing. Just drop me a message.
+What topics to cover in the future here:
+1) type of activation functions
+2) backpropagations with more details 
+3) weights update (how it happends during a training)
+4) Using validations in training
+5) How do I know I arrived? (is it training already done?)
+6) Testing, that is final performance evaluation
+7) adding more referneces if necessary
